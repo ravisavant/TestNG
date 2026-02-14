@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="yahoo app testinautomation suite">
+
+ <test name="yahoo app teting">
+
+    <parameter name="url" value="https://login.yahoo.com"/>
+    <parameter name="emailid" value="ravi@yahoo.com"/>
+
+   
+        <classes>
+            <class name="com.parameters.ParameterTest"/>
+        </classes>
+    </test>
+
+</suite>
