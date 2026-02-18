@@ -1,5 +1,5 @@
 // test data class
-package Testdata;
+package Testdata; 
 
 import org.testng.annotations.DataProvider;
 
